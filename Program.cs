@@ -21,7 +21,7 @@ namespace MyApp
                 {
                     ServicePointManager.Expect100Continue = true;
                     ServicePointManager.SecurityProtocol = (SecurityProtocolType)3072;
-
+                    //i wish i had a better way to display the name of the app but i dont. I might try and make it so it grabs it from oculus db in the future.
                     string downloadUrl = $"https://zerndowngrader.vercel.app/download?build={appbuildid}&token={accesstoken}";
                     string outputPath = Path.Combine(
                         Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location),

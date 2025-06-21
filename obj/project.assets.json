@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fahed\\source\\repos\\ZernAppDowngrader\\ZernAppDowngrader\\ZernAppDowngrader.csproj",
+      "projectUniqueName": "C:\\Users\\fahed\\source\\repos\\ZernAppDowngrader\\ZernAppDowngrader\\Zern-Downgrader\\ZernAppDowngrader.csproj",
       "projectName": "ZernAppDowngrader",
-      "projectPath": "C:\\Users\\fahed\\source\\repos\\ZernAppDowngrader\\ZernAppDowngrader\\ZernAppDowngrader.csproj",
+      "projectPath": "C:\\Users\\fahed\\source\\repos\\ZernAppDowngrader\\ZernAppDowngrader\\Zern-Downgrader\\ZernAppDowngrader.csproj",
       "packagesPath": "C:\\Users\\fahed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fahed\\source\\repos\\ZernAppDowngrader\\ZernAppDowngrader\\obj\\",
+      "outputPath": "C:\\Users\\fahed\\source\\repos\\ZernAppDowngrader\\ZernAppDowngrader\\Zern-Downgrader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fahed\\AppData\\Roaming\\NuGet\\NuGet.Config",
