@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZernAppDowngrader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb1037eb070080435904b8939c9efdd3b965541c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+076c29e11d09dcbe3f80497b48a09137fded2c5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZernAppDowngrader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZernAppDowngrader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
