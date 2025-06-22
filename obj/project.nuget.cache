@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6Em5cLDiqX38iTs6tsXfCHBtf6OPxT+ofNgSscPBspCrAFZCQ2QDY/39JitZ6g2yMrAyC2gVM4PrDu+vLtyjug==",
+  "dgSpecHash": "GjI9qlAKpsVD344fO18JqOcB5HTARq2wAp7Raxhk6mCDO4zFw34nKZk5/rDLQ0ZQ2CGr1MpJbrR4bt4uFwZmkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\fahed\\source\\repos\\ZernAppDowngrader\\ZernAppDowngrader\\Zern-Downgrader\\ZernAppDowngrader.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fahed\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

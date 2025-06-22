@@ -27,3 +27,6 @@ C:\Users\fahed\source\repos\ZernAppDowngrader\ZernAppDowngrader\Zern-Downgrader\
 C:\Users\fahed\source\repos\ZernAppDowngrader\ZernAppDowngrader\Zern-Downgrader\bin\Debug\net6.0\ZernAppDowngrader.pdb
 C:\Users\fahed\source\repos\ZernAppDowngrader\ZernAppDowngrader\Zern-Downgrader\obj\Debug\net6.0\ZernAppDowngrader.genruntimeconfig.cache
 C:\Users\fahed\source\repos\ZernAppDowngrader\ZernAppDowngrader\Zern-Downgrader\obj\Debug\net6.0\ref\ZernAppDowngrader.dll
+C:\Users\fahed\source\repos\ZernAppDowngrader\ZernAppDowngrader\Zern-Downgrader\obj\Debug\net6.0\ZernAppDowngrader.csproj.AssemblyReference.cache
+C:\Users\fahed\source\repos\ZernAppDowngrader\ZernAppDowngrader\Zern-Downgrader\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\fahed\source\repos\ZernAppDowngrader\ZernAppDowngrader\Zern-Downgrader\obj\Debug\net6.0\ZernAppDowngrader.csproj.CopyComplete
